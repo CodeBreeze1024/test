@@ -1,6 +1,7 @@
 #include<iostream>
 
 int add(int,int);
+void say();
 
 int main()
 {
@@ -15,3 +16,10 @@ int add(int a,int b)
 {
    return a+b;
 }
+
+//2021-3-21
+void say()
+{
+   std::cout<<"Find job!"
+}
+
