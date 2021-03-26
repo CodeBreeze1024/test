@@ -11,5 +11,9 @@
 
 class FibSearch()
 {
-
+  private:
+  
+  public:
+  vector<int>* generateFibArray(int n);  //Generate Fibonacci Array
+  int find(vector<int>*);                //search
 };
