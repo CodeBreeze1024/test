@@ -7,6 +7,7 @@ int main()
 {
   std::cout<<"Hello,github!";
   std::cout<<"Hello,world!";
+  std::cout<<"Come on!";
   int x=10,y=20;
   int result=add(x,y);
   return 0;
